@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  <label for="username">Email or phone number:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="pwd">Password:</label><br>
+  <input type="password" id="pwd" name="pwd"><br><br>
+  <input type="submit" value="Agree & Join">
+</form>
+<div class="information">
+<h2>Make the most of your Profesional life</h2>
+<form name="form1" action="#">
+<form action="/action_page.php">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name"><br>
+  <label for="ln">Last Name:</label><br>
+  <input type="ln" id="ln" name="ln"><br><br>
+  <input type="submit" value="Continue">
+</form>
+<div class="information">
+<h2>Welcome     </h2>
+<form name="form1" action="#">
+<form action="/action_page.php">
+  <label for="Cr">Country/Region*</label><br>
+  <input type="text" id="Cr" name="Cr"><br>
+  <label for="cd">City/District*</label><br>
+  <input type="cd" id="cd" name="cd"><br><br>
+  <input type="submit" value="Next">
+</form>
+
+<div class="information">
+<h2>Your profile helps you discover new people and opportunities</h2>
+<form name="form1" action="#">
+<form action="/action_page.php">
+  <label for="mrjt">Most recent job title*</label><br>
+  <input type="text" id="mrjt" name="mrjt"><br>
+ <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.btn {
+  border: none;
+  color: black;
+  padding: 16px 15px;
+  text-align: center;
+  font-size: 14px;
+  margin: 1px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+.btn:hover {opacity: 1}
+</style>
+</head>
+<body>
+
+<button class="btn">I'm a Student</button>
+<input type="submit" value="Next">
+
+   <label style="color: black"><br>
+   Start year*</label>
+  <div class="select">
+      <select>
+          <option>-</option>
+          <option>2011</option>
+          <option>2012</option>
+          <option>2013</option>
+          <option>2014</option>
+          <option>2015</option>
+          <option>2016</option>
+          <option>2017</option>
+          <option>2018</option>
+          <option>2019</option>
+          <option>2020</option>
+      </select>
+  </div>
+     <label style="color: black">End year*</label>
+  <div class="select">
+      <select>
+          <option>-</option>
+          <option>2021</option>
+          <option>2022</option>
+          <option>2023</option>
+          <option>2024</option>
+          <option>2025</option>
+          <option>2026</option>
+          <option>2027</option>
+          <option>2028</option>
+          <option>2029</option>
+          <option>2030</option>
+      </select>
+  </div>
+<style> 
+#example1 {
+  border: 2px solid gray;
+  padding: 10px;
+  border-radius: 25px;
+  height: 55px;
+}
+.slider
+{
+    float: right;
+}
+
+
+h1 {
+        color: green;
+    }
+           
+   
+    .toggle {
+        position : relative ;
+        display : inline-block;
+        width : 80px;
+        height : 55px;
+        background-color: lightgray;
+        border-radius: 25px;
+        border: 2px solid gray;
+    }
+           
+    /* After slide changes */
+    .toggle:after {
+        content: '';
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: gray;
+        top: 1px;
+        left: 1px;
+        transition:  all 0.5s;
+    }      
+    /* Toggle text */
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }       
+    /* Checkbox checked effect */
+    .checkbox:checked + .toggle::after {
+        left : 49px;
+    }          
+    /* Checkbox checked toggle label bg color */
+    .checkbox:checked + .toggle {
+        background-color: green;
+    }        
+    /* Checkbox vanished */
+    .checkbox {
+        display : none;
+    }
+</style>
+</head>
+<body>
+
+<div></div>
+<div id="example1">
+    
+        <label>I'm over 16</label>
+        
+        <div class="slider">
+<input type="checkbox" id="switch"
+                    class="checkbox"/>
+
+        <label for="switch" class="toggle">
+        <p>Yes    </p>
+ 
+            </div>
+        </label>
+        </label> 
+        </div>
+   <button class="btn">I'm not a Student</button> <br>
+    <input type="submit" value="Continue">
+    <div class="information">
+<h2>Add your Email</h2>
+<form name="form1" action="#">
+<form action="/action_page.php">
+  <label for="mail">Email*</label><br>
+  <input type="text" id="mail" name="mail"><br>
+  <input type="submit" value="Next">
+   <button class="btn">Skip</button>
+  <div class="container">
+    <p>Sign up Successfuly <a href="#"></a>.</p>
+  </div>
+  
+</body>
+</html>
+
